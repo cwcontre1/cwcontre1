@@ -57,13 +57,13 @@
 &nbsp;
   <img src="https://img.shields.io/badge/postgresql-143?style=for-the-badge&logo=postgresql&logoColor=white&color=396c94&labelColor=396c94">
 &nbsp;
-    <img src="https://img.shields.io/badge/arduino-143?style=for-the-badge&logo=arduino&logoColor=white&color=black&labelColor=087885">
+    <img src="https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&labelColor=white&color=777BB3">
 &nbsp;
     <img src="https://img.shields.io/badge/flutter-143?style=for-the-badge&logo=flutter&logoColor=white&color=black&labelColor=59c7f8">
 &nbsp;
   <img src="https://img.shields.io/badge/flask-143?style=for-the-badge&logo=flask&logoColor=white&color=black&labelColor=black">
 &nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white&color=4479A1">
 
 </p>
 <br>
@@ -73,11 +73,11 @@
 
 <p align="center">
   <a href="cwcontre1@gmail.com" >
-    <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="WilsonC | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/wilcon95/" target="_blank">
-    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="WilsonC | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
 <p>
@@ -89,6 +89,6 @@
 
 ---
 
-Credits: [Wilson Contreras](https://www.koidevs.com/)
+Credits: [Wilson Contreras](https://koidevs.vercel.app)
 
 Last Edited on: 05/04/2024
