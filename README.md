@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/react-143?style=for-the-badge&logo=react&logoColor=1399c4&color=1399c4&labelColor=white"/>  
   &nbsp;
-<img src="https://img.shields.io/badge/tailwind-143?style=for-the-badge&logo=tailwindcss&logoColor=3b42cf&color=3b42cf&labelColor=white"/>
+<img src="https://img.shields.io/badge/c%23-142?style=for-the-badge&logo=dotnet&logoColor=white&color=white&labelColor=512BD4"/>
   </p>
   
   <p  align="center">
