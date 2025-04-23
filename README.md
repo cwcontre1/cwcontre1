@@ -10,7 +10,7 @@
 - :earth_asia: Vivo actualmente en **Bogotá-Colombia**
 - :sweat_smile: Soy un apasionado por la programación :penguin:
 - :monocle_face: Si no estoy programando, estoy durmiendo
-- :sunglasses: **_"Me mantengo en pie porque la llama en mi interior es más intensa que el fuego que arde fuera"_**
+- :sunglasses: Me especializo en Odoo, pero hoy en día le doy a lo que sea
 - :ok_hand: Hago otras cosas además de trabajar o dormir, pero prefiero no hacerlas 😆
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Herramientas, lenguajes y demás
